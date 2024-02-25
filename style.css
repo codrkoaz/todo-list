@@ -85,6 +85,8 @@ form button:hover {
 
 .todo-item {
   padding: 0rem 0.5rem;
+  display: flex;
+  justify-content: flex-start;
 }
 
 .fa-trash,
